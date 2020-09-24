@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /index.html
-Disallow: /
+Disallow: /home.html
+Disallow: /404.html
+Disallow: /san.html
